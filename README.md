@@ -118,15 +118,8 @@ DIGITAL CREW 243 🚀
     <i>"Always Forward. Digital Crew, one of the best."</i>
   </p>
 
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 </div>
-
----
-
-📝 Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 ---
 

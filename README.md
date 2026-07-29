@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.imgur.com/alpha-logo.png" alt="Alpha Opt Bot" width="200"/>
+  <img src="https://files.catbox.moe/82agzs.jpg" alt="Alpha Opt Bot" width="200"/>
   
   # 🔐 Alpha Opt Bot
   
@@ -31,8 +31,7 @@
 
 - Node.js (v18 ou supérieur)
 - Compte Telegram (pour le bot)
-- Compte WhatsApp (pour l'envoi)
-- Numéros valides pour les OTP
+- Compte WhatsApp
 
 ---
 
@@ -41,8 +40,8 @@
 ### 1. Clonez le repository
 
 ```bash
-git clone https://github.com/yourusername/alpha-opt-bot.git
-cd alpha-opt-bot
+git clone https://github.com/NeoZoneHub/Alpha-opt-bot.git
+cd Alpha-opt-bot
 ```
 
 2. Installez les dépendances
@@ -80,20 +79,6 @@ module.exports = {
     }
 };
 ```
-
-Fichier flag.js
-
-```javascript
-module.exports = {
-    features: {
-        autoSend: true,
-        multiChannel: true,
-        logEnabled: true,
-        premiumOnly: false
-    }
-};
-```
-
 ---
 
 📦 Déploiement sur Katabump
@@ -113,7 +98,7 @@ module.exports = {
 alpha-opt-bot/
 ├── 📄 index.js              # Fichier principal
 ├── 📄 config.js             # Configuration du bot
-├── 📄 flag.js               # Flags et fonctionnalités
+├── 📄 flag.js               # Flags 
 └── 📄 package.json          # Dépendances
 ```
 

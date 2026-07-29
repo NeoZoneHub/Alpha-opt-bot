@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img src="https://i.imgur.com/alpha-logo.png" alt="Alpha Opt Bot" width="200"/>
   

@@ -65,7 +65,7 @@ Fichier config.js
 ```javascript
 module.exports = {
     Config: {
-        ownerNumber: "92",
+        ownerNumber: "243",
         botName: "Alpha OTP",
         otpChannelIDs: ["@DigitalCrewNew"],
         joinLink: "https://whatsapp.com/channel/0029VbBT7FdLCoX1TDyQQb1B",
@@ -73,8 +73,8 @@ module.exports = {
 
         telegramNotify: {
             enabled: true,
-            botToken: "8920375821:AAFnfbRBaPw7FzPp3VYNfRCFdSqkb5kYoD4",
-            adminId: "6139517534"
+            botToken: "8920375821:AAFnfbRBaPw7FzPp3VYNfRCxxxxxxxxxx", // remplacez par le token de votre bot
+            adminId: "613951xxxxx" // remplacez par l’id de votre compte telegram 
         }
     }
 };
@@ -110,7 +110,7 @@ alpha-opt-bot/
 
 Réalisé par
 
-  <img src="https://i.imgur.com/digix-logo.png" alt="Digital Crew 243" width="150"/>
+  <img src="https://files.catbox.moe/tae1im.jpg" alt="Digital Crew 243" width="150"/>
 
 DIGITAL CREW 243 🚀
 
@@ -137,13 +137,13 @@ Pour toute question ou assistance :
 <div align="center">
 
   <a href="https://wa.me/998771529519">
-    <img src="https://img.shields.io/badge/CONTACT_PREMIUM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366&fontSize=20" alt="Contact Premium" width="300"/>
+    <img src="https://img.shields.io/badge/CONTACT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366&fontSize=20" alt="Contact Premium" width="300"/>
   </a>
 
   <br/>
   <br/>
 
-  <img src="https://img.shields.io/badge/⭐_SUPPORT_PREMIUM_⭐-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Premium Support"/>
+  <img src="https://img.shields.io/badge/⭐_SUPPORT_⭐-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Premium Support"/>
 
 </div>
 
@@ -156,4 +156,3 @@ Pour toute question ou assistance :
   <p>© 2026 Alpha Opt Bot. Tous droits réservés.</p>
 
 </div>
-```
